@@ -43,13 +43,13 @@ Outside of [GitHub](https://github.com/MianAizaz6/), You can **find me. Currentl
     <img src="https://komarev.com/ghpvc/?username=MianAizaz&color=blue&label=Profile+Views" alt="GitHub badge" />
   </a>
   <a href="https://github.com/MianJawadAhmad?tab=followers">
-    <img src="https://img.shields.io/github/followers/MianJawadAhmad?label=follow&style=social" alt="GitHub badge" />
+    <img src="https://img.shields.io/github/followers/MianAizaz6?label=follow&style=social" alt="GitHub badge" />
   </a>
   <a href="https://twitter.com/MianAizaz6">
     <img src="https://img.shields.io/twitter/follow/MianAizaz6?style=social" />
   </a>
   <a href="https://www.linkedin.com/in/mian-aizaz-92a690172/">
-    <img src="https://img.shields.io/badge/-MianJawadAhmad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mian-aizaz-92a690172/" />
+    <img src="https://img.shields.io/badge/-MianAizaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mian-aizaz-92a690172/" />
   </a>
 </p>
 
