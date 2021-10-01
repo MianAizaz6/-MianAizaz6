@@ -1,6 +1,6 @@
 **Hey There! Welcome to my GitHub** 👋
 
- <p align="center"><h1>Happy to see you here</h1> The green dots on my [**GitHub** profile](https://github.com/MianAizaz6)represent my journey :running_man: - This is Mian Aizaz.I am a Tech Evangelist 💻, Interested in all the cutting-edge technologies. I am a computer Engineer By profession and working as a full-stack web developer. I have 3 years of working experience as Full-stack web developer.
+ <p align="center"><h1>Happy to see you here</h1> The green dots on my Github Profile represent my journey :running_man: - This is Mian Aizaz.I am a Tech Evangelist 💻, Interested in all the cutting-edge technologies. I am a computer Engineer By profession and working as a full-stack web developer. I have 3 years of working experience as Full-stack web developer.
  I use to work in different technologies like Laravel, React and Vue js.
 </p>
 
